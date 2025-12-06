@@ -5,6 +5,7 @@ author        = "Stephen Pollett"
 description   = "Day1 Advent Of Code"
 license       = "BSD-3-Clause"
 srcDir        = "src"
+binDir        = "bin"
 bin           = @["day1"]
 
 
