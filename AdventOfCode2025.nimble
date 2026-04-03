@@ -2,11 +2,12 @@
 
 version       = "0.1.0"
 author        = "Stephen Pollett"
-description   = "Day1 Advent Of Code"
+description   = "AdventOfCode"
 license       = "BSD-3-Clause"
 srcDir        = "src"
-binDir        = "bin"
-bin           = @["day1"]
+bin           = @["AdventOfCode2025"]
+
 
 # Dependencies
-requires "nim >= 2.0.8"
+
+requires "nim >= 2.2.6"
